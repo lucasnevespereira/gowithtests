@@ -1,3 +1,3 @@
 # GoWithTests
 
-Code from ebook ![learn go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+Code from ebook [learn go with tests](https://quii.gitbook.io/learn-go-with-tests/)
